@@ -1,0 +1,19 @@
+Laboratorio #1			EDUARDO LOPEZ AYALA  19000477
+
+Parte #1
+
+1.Un vector es una estructura de datos en R que se compone de una serie de objetos de un mismo tipo, cada elemento tiene un indice, para crear un vector se usa la funcion c()
+
+2.Los arreglos en R son dinamicos porque permiten agregarse o quitarse elementos luego de que se ha definido el objeto
+
+3.Los factores son vectores que se crean a partir de otros de la misma longitud y que sirven para darle alguna clasificacion a los datos del vector 
+
+4.La idea del factor es darle una clasificacion o categoria a un arreglo por ejemplo si tenemos un vector de estudiantes, un factor podria ser la nota del estudiante respecto a algun curso
+
+5.Una lista de R es una estructura de datos que continen una serie de objetos o valores
+
+6.La diferencia que puede guardar datos de diferente tipo a diferencia del arreglo que solo es de un tipo
+
+7.La funcion names() en R sirve para definirle un nombre a cada uno de los objetos de una estructura de datos como un frame, tambien se puede usar para obtener dichos nombres
+
+8.Una tabla es una funcion que construye una estructura tabular a partir de objetos como combinacion de niveles de un factor
